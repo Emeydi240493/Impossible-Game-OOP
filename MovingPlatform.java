@@ -6,7 +6,7 @@ package com.mycompany.gameobject;
 
 /**
  *
- * @author user
+ * shaira hamid part
  */
 
 import java.awt.Color;

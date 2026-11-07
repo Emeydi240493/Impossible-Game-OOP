@@ -6,7 +6,7 @@ package com.mycompany.gameobject;
 
 /**
  *
- * @author user
+ * Shaira Hamid - stats part, level 2 part
  */
 
 import javax.swing.JPanel;
