@@ -9,7 +9,7 @@ package com.mycompany.gameobject;
  * @author user
  */
 
-//ForKeyHandlerClass
+//KeyHandlerClass
 
 
 import java.awt.event.KeyEvent;
