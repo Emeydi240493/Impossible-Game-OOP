@@ -8,6 +8,7 @@ package com.mycompany.gameobject;
  *
  * @author user
  */
+// Spike
 
 import java.awt.Color;
 import java.awt.Graphics;
