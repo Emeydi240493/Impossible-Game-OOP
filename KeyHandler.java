@@ -9,6 +9,9 @@ package com.mycompany.gameobject;
  * @author user
  */
 
+//ForKeyHandlerClass
+
+
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
@@ -37,3 +40,4 @@ public class KeyHandler implements KeyListener {
         if (code == KeyEvent.VK_W || code == KeyEvent.VK_SPACE || code == KeyEvent.VK_UP) jumpPressed = false;
     }
 }
+
