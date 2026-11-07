@@ -9,6 +9,8 @@ package com.mycompany.gameobject;
  * @author user
  */
 
+//ForClassDoor
+
 import java.awt.Color;
 import java.awt.Graphics;
 
