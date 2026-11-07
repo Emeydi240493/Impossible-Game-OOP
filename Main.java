@@ -9,6 +9,8 @@ package com.mycompany.gameobject;
  * @author user
  */
 
+//ForMainCLASS
+
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
