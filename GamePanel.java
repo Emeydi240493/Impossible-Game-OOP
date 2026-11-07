@@ -6,8 +6,23 @@ package com.mycompany.gameobject;
 
 /**
  *
- * Shaira Hamid - stats part, level 2 part
+ * 
  */
+
+
+/*Pollisco: Class Setup, Fields, and Game Flow Checks
+
+Teodoro: Constructor, Game Loop, and Level Setup 
+
+Dapito: Level Rules and Trigger
+
+Darib: Intro Screen and Ending Animation 
+
+Hamid: Stats, Rank, and Keyboard Controls 
+
+*/
+
+
 
 import javax.swing.JPanel;
 import java.awt.Color;
