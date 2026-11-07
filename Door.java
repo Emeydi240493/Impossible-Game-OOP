@@ -10,7 +10,7 @@ package com.mycompany.gameobject;
  */
 
 //ForClassDoor
-
+//Door
 import java.awt.Color;
 import java.awt.Graphics;
 
