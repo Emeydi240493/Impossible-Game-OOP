@@ -190,7 +190,7 @@ public class GamePanel extends JPanel implements Runnable, KeyListener {
         gameObjects.add(player);
     }
 
-    // LEVEL 3: TROLL WALL & TELEPORTING DOOR
+    //LEVEL 3: TROLL WALL & TELEPORTING DOOR
     private void setupLevel3() {
         player = new Player(50, 320, 24, 32);
 
