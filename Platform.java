@@ -8,7 +8,7 @@ package com.mycompany.gameobject;
  *
  * @author user
  */
-
+//For Platform
 import java.awt.Color;
 import java.awt.Graphics;
 
